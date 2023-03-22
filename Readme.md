@@ -13,6 +13,10 @@
 - Get going with my cross-platform `mobile AI research project` in `Dart`
 - Get an internship 🏢 and get into the `industry`.
 
+### Active sites
+- [ENUCS Frontend Git Module](https://zin-lin.github.io/enucs-test-ui)
+- [AnnexFood](https://zin-lin.github.io/AnnexFood)
+
 ### Skills
 
  [
@@ -88,10 +92,30 @@
 <img alt="Spring" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 ](https://spring.io/)
 
+### My Web Stack
 
 
+[
+<img alt="Spring" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+](https://spring.io/)
+
+ [
+<img alt="TypeScript" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+](https://www.typescriptlang.org/)
+ [
+<img alt="JavaScript" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+](https://www.javascript.com/)
+
+ [
+<img alt="Docker" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+](https://www.docker.com/)
 
 
+### My Mobile Stack
+
+[
+<img alt="Flutter" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+](https://flutter.dev/)
 
 
 

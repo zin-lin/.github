@@ -49,6 +49,21 @@
 ](https://git-scm.com/)
 
 
+ [
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+](https://git-scm.com/)
+
+ [
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+](https://git-scm.com/)
+
+ [
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
+](https://git-scm.com/)
+
+
+
+
 
 
 

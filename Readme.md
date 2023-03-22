@@ -82,7 +82,7 @@
 ](https://git-scm.com/)
 
 [
-<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservice/amazonwebservice-original.svg" />
 ](https://git-scm.com/)
 
 

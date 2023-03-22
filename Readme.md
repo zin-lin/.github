@@ -113,7 +113,7 @@
 ](https://www.react.dev/)
  [
 <img alt="Redux" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-](https://www.react-redux.js.org/)
+](https://react-redux.js.org/)
 
  [
 <img alt="Docker" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />

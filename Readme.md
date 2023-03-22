@@ -12,3 +12,12 @@
 - Get started with `AWS` environment.
 - Get going with my cross-platform `mobile AI research project` in `Dart`
 - Get an internship 🏢 and get into the `industry`.
+
+### Skills
+
+- [
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+](https://git-scm.com/)
+- [
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+](https://git-scm.com/)

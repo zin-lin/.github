@@ -81,6 +81,9 @@
 <img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 ](https://git-scm.com/)
 
+[
+<img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
+](https://git-scm.com/)
 
 
 

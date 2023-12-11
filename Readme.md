@@ -16,6 +16,7 @@
 ### Active sites
 - [ENUCS Frontend Git Module](https://zin-lin.github.io/enucs-test-ui)
 - [AnnexFood](https://zin-lin.github.io/AnnexFood)
+- [Annex: ComicsX](https://webtech-2324-25.napier.ac.uk)
 
 ### Skills
 

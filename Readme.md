@@ -4,7 +4,7 @@
 - Love `Dockers` 🐳
 - Love `OOP Concepts` and Engineering Environments more.
 - Hates `Scripting` but do it where I have to.
-- Have a love hate relationship with `Linux` 🐧
+- Have a loving relationship with `Linux` 🐧, Ubuntu, KUbuntu. Completely switched to Linux no more Windows
 - Love `Design Patterns` and organising engineering and project integrations.
 
 ### Next Goals 😀

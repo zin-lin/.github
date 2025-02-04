@@ -12,6 +12,7 @@
 - Get started with `AWS` environment.
 - Get going with my cross-platform `mobile AI research project` in `Dart`
 - Get an internship 🏢 and get into the `industry`.
+- Be a Robotics engineer
 
 ### Active sites
 - [ENUCS Frontend Git Module](https://zin-lin.github.io/enucs-test-ui)
